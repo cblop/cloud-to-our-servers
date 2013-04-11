@@ -1,4 +1,4 @@
-cloud-to-butt
+cloud-to-our-servers
 =============
 
 Chrome extension that replaces occurrences of the friendly-sounding 'the cloud' with the more accurate 'our servers'
@@ -12,10 +12,11 @@ Installation
 
 In Chrome, choose Window > Extensions.  Drag CloudToOurServers.crx into the page that appears.
 
+<!---
 Safari Version
 --------------
 
-/*Can be found here: https://github.com/logancollins/cloud-to-butt-safari*/
+Can be found here: https://github.com/logancollins/cloud-to-butt-safari
 
 Firefox Version
 ---------------
@@ -27,3 +28,4 @@ Opera Version
 ---------------
 
 /*Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera*/
+-->
